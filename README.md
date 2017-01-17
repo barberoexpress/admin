@@ -1,0 +1,2 @@
+# admin
+Administrador general barberoExpress
