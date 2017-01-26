@@ -47,15 +47,16 @@
           </label>
           -->
         </div>
-        <button id="btnLogIn" class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-        <button id="btnLogUp" class="btn btn-lg btn-primary btn-block" type="submit">Registrar</button>
+        <button id="btnLogIn" class="btn btn-lg btn-primary btn-block">Sign in</button>
+        <button id="btnLogUp" class="btn btn-lg btn-primary btn-block">Registrar</button>
       </form>
 
     </div> <!-- /container -->
 
 
 
-    <script src="https://www.gstatic.com/firebasejs/3.6.6/firebase.js"></script>
+
+    <script src="https://www.gstatic.com/firebasejs/3.6.7/firebase.js"></script>
     <script>
       // Initialize Firebase
       var config = {
@@ -66,37 +67,7 @@
         messagingSenderId: "1079978268114"
       };
       firebase.initializeApp(config);
-
-
-      const textEmaile = document.getElementById('inputEmail');
-      const textPassword = document.getElementById('inputPassword');
-      const btnLogIn = document.getElementById('btnLogIn');
-      const btnLogUp = document.getElementById('botnLogUp');
-      const btnLogout = document.getElementById('botnLogOut');
-
-      btnLogIn.addEventListener('Clic',e => {
-
-        const email = textEmaile.value;
-        const password = textpassword.value;
-        const auth = firebase.auth();
-
-        const promise = auth.signInWithEmailAndPassword(email,password);
-
-        promise.catch(e => console.log(e.message));
-      })
-
-      btnLogUp.addEventListener('Clic',e => {
-
-        const email = textEmaile.value;
-        const password = textpassword.value;
-        const auth = firebase.auth();
-
-        const promise = auth.createUserWithEmailAndPassword(email,password);
-
-        promise.catch(e => console.log(e.message));
-      })
-
     </script>
-
+    <script src="logIn.js"></script>
   </body>
 </html>
