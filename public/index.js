@@ -1,5 +1,6 @@
 const app = require('./app');
 const config = require('./config')
+var firebase = require('firebase')
 
 
 app.listen(config.port , function (){

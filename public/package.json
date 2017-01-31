@@ -4,7 +4,8 @@
   "description": "Administrador general de www.eltoquedelbarbero.com",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "firebase": "^3.6.8"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
