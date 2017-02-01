@@ -3,8 +3,8 @@ const config = require('./config')
 var firebase = require("firebase");
 
 firebase.initializeApp({
-  serviceAccount: "path/to/serviceAccountCredentials.json",
-  databaseURL: "https://databaseName.firebaseio.com"
+  serviceAccount: "json/adminBarberoExpress-bd7661c38f23.json",
+  databaseURL: "https://adminbarberoexpress-33fb4.firebaseio.com"
 });
 
 
