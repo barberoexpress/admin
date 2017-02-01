@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adminbarberoexpress-33fb4",
+  "private_key_id": "bd7661c38f23f003ecddbf1a8222827282eb64f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/PPCPifwF8WVI\nVcMONr4Q+masL4J8yObhuP9uPYvtOw0PGZZ669tvuCIHKeP3/z4pQVS8zZ+XVzDQ\nGnq+Idc6mqsZsAgf7d/Fqp0yYxa5dPMFud943GwUrsAQd/NARgP9sb7xMh4Bdnom\nzBZtCA015HAkXSu+2TGMog45c1mCgRLi8ydgZr/5I6DKeNzbUcFdhsjPiZAWMYmm\n82WkbIIzYB/QFTmp+r/jV3NI82yDalIx6Dfy4W5Ud1AA9MylFWqdThdGIqDnEwXg\nTH/Z0mfADZA+lFe9tBv9vXAaCzseJMpSoobbzMVLSfhAEVXZd7Tfx6suaeF6jy4s\nXQwpXxdHAgMBAAECggEBAI+8U+rvATfOShvmKedDCfRk4ErGosL7lV1O2N2Y8NTr\nr1MMHmhhYdtEgH7141yAwc3sRq5ptmvfotanMF47vTNVEQkLn++vsKM3K1O12lym\nJArHu8lxkuKwvbcjEPfcKB/EOwm6a4cZ75G9j5V/mb5J5mfOh5S4Vl+nZh2UL1DA\nOLPUFT1tjfaiwC06xqDlax6x5kj+GudjbZ4mA6Y+c/1f8/R6vZJ1Nzp6Yv5tC6SF\n6SNLqtsGRLdBxnx972zelAZ8wRWINsBerInSML5mVgHPDCOiprm+2h0lwEWhKFr1\nkUndD3SsjG4azURTyfd8+RZShRqfvrLnijH6ErObdfECgYEA86hrSTgW1xmpCwts\nuUxrZnVjG0J9WctYWdyF9G/BKBLVXU43mz5neflR1GbGMpw0nbj4gyj7p92Tku3e\nV9b3ULwMU+qpFXV8T1d9DHBAI1tDt07lCWWQienadXitjLKxntqCkWV5nkiLnz+C\n9Zqa4A4lNmhNW/FcPWgbh1Y2yM0CgYEAyOzHFIBLnA73ammqAeySk83ozL/3lHza\neGg8JLE7x2nFEzS8mz5l1MDngDdbevE2HLMegr9Ez60afIZeP/I6KTIMHuCRAMgH\nwZS356ibXCojfNmdGpQwUJAOm1F6i9Zi5sl36yRgY5BxJHa5EElN0Fe2SpaK/B7d\nU+YrxUKtMGMCgYALBBtNpSaLNRLKeArDWewlJruDWP831xS4g1rfEUpnWGqjHE0x\nTKH7BsWnV7owQZWzZ9B8hZbTIRZx9yUtTX/C+62HAb4BRV2IbMkvjceokZC/Mebz\nBM+DHLqOwxT9nnqfVvu+PRtBh8AgRAvUtNe5t4oBKrgMpx3nfNR5yvERJQKBgCBc\n4wQOVh9g2cEuG9ALhuB/vgucsAgexCG4yFcwpOxNwQyC5g4rUsOd/qvMPtPinlCp\nGTT+EdtRin6cNfoezfdstD8U9MYncfhgN+78XWnO78BgXMm3LMENMw0ZZp+3fF6n\n/MTHKy9eSJsS9GQHKp1wQ1BoRyKs5gFphYtUXgj5AoGAANN37AoeV2OxaPMKH5wT\nowu5r9RKB2opsI7OeqWVDhPRG6MmTHhr8I4HqRAt67AlLWkfNa4qWcCDJMqgIrIC\nIfoBmnHGWUs18rBvm8S4PBhP7GoRiELY3Mac9fSdHd7nLIZ7k7DNFqI2wgP4mcDG\n4GgVLKW8D7cnlzOY76H1M0s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "conectoradmin@adminbarberoexpress-33fb4.iam.gserviceaccount.com",
+  "client_id": "100394767691495714968",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conectoradmin%40adminbarberoexpress-33fb4.iam.gserviceaccount.com"
+}

@@ -1,6 +1,11 @@
 const app = require('./app');
 const config = require('./config')
-var firebase = require('firebase')
+var firebase = require("firebase");
+
+firebase.initializeApp({
+  serviceAccount: "path/to/serviceAccountCredentials.json",
+  databaseURL: "https://databaseName.firebaseio.com"
+});
 
 
 app.listen(config.port , function (){
